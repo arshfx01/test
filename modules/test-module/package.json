@@ -1,0 +1,19 @@
+{
+  "name": "test-module",
+  "version": "1.0.0",
+  "description": "A test native module for Expo",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "expo",
+    "react-native",
+    "native-module"
+  ],
+  "author": "",
+  "license": "ISC",
+  "peerDependencies": {
+    "expo": "*"
+  }
+}
